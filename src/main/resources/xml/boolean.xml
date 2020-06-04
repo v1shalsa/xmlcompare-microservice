@@ -1,0 +1,11 @@
+<ElementaryType name="Boolean" description="" guid="c8d4a98a-f9d3-430b-9be9-3d58f85a1f48"
+    validValuesOnly="false" kind="Core" definitionType="Static" type=""
+    businessEntityID="00000000-0000-0000-0000-000000000001" businessEntity="Telco"
+    inheritsValidValues="false" lastModLayerName="1" layerId="1" Access="Public">
+    <Values>
+        <Value name="Yes" description="" value="1" guid="a820c98e-cac8-4b16-97ff-f4e7d6ddc501"
+            defaultValue="true" kind="Core" layerId="1" lastModLayerName="1" Access="Public"/>
+        <Value name="No" description="" value="0" guid="5e0d5730-f0d2-40ed-bcaa-7bd69069abcd"
+            defaultValue="false" kind="Core" layerId="1" lastModLayerName="1" Access="Public"/>
+    </Values>
+</ElementaryType>
